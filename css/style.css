@@ -1,0 +1,9 @@
+.general-col{
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: rgb(93, 93, 255);
+    color: white;
+    border: 1px solid white;
+}
+
