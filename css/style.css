@@ -15,7 +15,9 @@
     height: 44px;
 }
 
-.sixth-row .col-6 .row{
+.sixth-row .col-6 .row,
+.nested-row .col-7 .row,
+.nested-row .col-5 .row{
     padding: 7px 8px;
     font-size: 16px;
 }
