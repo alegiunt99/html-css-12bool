@@ -19,3 +19,15 @@
     padding: 7px 8px;
     font-size: 16px;
 }
+
+.start-align{
+    justify-content: flex-start;
+}
+
+.center-align{
+    justify-content: center;
+}
+
+.end-align{
+    justify-content: flex-end;
+}
