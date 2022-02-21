@@ -7,3 +7,15 @@
     border: 1px solid white;
 }
 
+.nested{
+    background-color: rgb(0, 231, 0);
+    line-height: 44px;
+    color: white;
+    border: 1px solid white;
+    height: 44px;
+}
+
+.sixth-row .col-6 .row{
+    padding: 7px 8px;
+    font-size: 16px;
+}
